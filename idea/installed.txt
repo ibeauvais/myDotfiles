@@ -1,0 +1,13 @@
+Builder Generator
+Infinitest
+com.karateca.elementorIdea
+com.thoughtworks.gauge
+net.nicoulaj.idea.markdown
+org.apache.pig.plugin.idea
+BashSupport
+org.intellij.plugins.markdown
+Docker
+Karma
+NodeJS
+org.intellij.scala
+com.intellij.plugins.html.instantEditing
